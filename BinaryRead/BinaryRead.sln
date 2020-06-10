@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryRead.EndPoint", "BinaryRead.EndPoint\BinaryRead.EndPoint.csproj", "{C34BE5FA-2FFD-4931-85DF-3B4B3A06D4A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryRead.Core", "BinaryRead.Core\BinaryRead.Core.csproj", "{EBEDFCA2-EB71-4ADB-887C-B327394E3F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C34BE5FA-2FFD-4931-85DF-3B4B3A06D4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34BE5FA-2FFD-4931-85DF-3B4B3A06D4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34BE5FA-2FFD-4931-85DF-3B4B3A06D4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34BE5FA-2FFD-4931-85DF-3B4B3A06D4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEDFCA2-EB71-4ADB-887C-B327394E3F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEDFCA2-EB71-4ADB-887C-B327394E3F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEDFCA2-EB71-4ADB-887C-B327394E3F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEDFCA2-EB71-4ADB-887C-B327394E3F24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41DD033F-2BE4-4908-A65E-2C0D1E51FDA1}
+	EndGlobalSection
+EndGlobal
